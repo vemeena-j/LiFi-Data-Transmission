@@ -1,5 +1,10 @@
 # 💡 Li-Fi Based Data Transmission
 
+## 🌐 Live Demo
+
+Try the Li-Fi Data Transmission Simulator online:
+
+[Launch Live Demo](YOUR_STREAMLIT_URL)
 ## 📌 Project Overview
 
 Li-Fi (Light Fidelity) is a wireless communication technology that uses light to transmit data.
