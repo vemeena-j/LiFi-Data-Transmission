@@ -62,3 +62,15 @@ hello
 Run the Li-Fi simulation on Wokwi:
 
 https://wokwi.com/projects/476864384264099841
+
+## 👩‍💻 Project Author
+
+**Name:** Vemeena J  
+**Department:** Electronics and Communication Engineering (ECE)  
+**College:** Suguna College of Engineering, Coimbatore
+
+This project was developed as part of my learning journey in **Embedded Systems and Wireless Communication**.
+
+---
+
+⭐ Thank you for visiting my project!
