@@ -56,3 +56,9 @@ Binary:
 Output:
 
 hello
+
+## Live Demo
+
+Run the Li-Fi simulation on Wokwi:
+
+https://wokwi.com/projects/476864384264099841
